@@ -1,0 +1,811 @@
+{
+  "formatVersion": "v1.0",
+  "disclaimer": "This pricing list is for informational purposes only. All prices are subject to the additional terms included in the pricing pages on http://aws.amazon.com. All Free Tier prices are also subject to the terms included at https://aws.amazon.com/free/",
+  "offerCode": "AmazonRDS",
+  "version": "20250220185706",
+  "publicationDate": "2025-02-20T18:57:06Z",
+  "products": {
+    "JYX35YJ8Z5DXXS98": {
+      "sku": "JYX35YJ8Z5DXXS98",
+      "productFamily": "Database Instance",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "Asia Pacific (Mumbai)",
+        "locationType": "AWS Region",
+        "instanceType": "db.r5d.24xlarge",
+        "currentGeneration": "Yes",
+        "instanceFamily": "Memory optimized",
+        "vcpu": "96",
+        "physicalProcessor": "Intel Xeon Platinum 8175",
+        "memory": "768 GiB",
+        "storage": "4 x 900 NVMe SSD",
+        "networkPerformance": "25 Gbps",
+        "processorArchitecture": "64-bit",
+        "engineCode": "2",
+        "databaseEngine": "MySQL",
+        "licenseModel": "No license required",
+        "deploymentOption": "Single-AZ",
+        "usagetype": "APS3-InstanceUsage:db.r5d.24xl",
+        "operation": "CreateDBInstance:0002",
+        "instanceTypeFamily": "R5d",
+        "normalizationSizeFactor": "192",
+        "regionCode": "ap-south-1",
+        "servicename": "Amazon Relational Database Service"
+      }
+    },
+    "H4WDB4TZHXB8URCU": {
+      "sku": "H4WDB4TZHXB8URCU",
+      "productFamily": "Database Instance",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "Asia Pacific (Melbourne)",
+        "locationType": "AWS Region",
+        "instanceType": "db.t3.medium",
+        "currentGeneration": "Yes",
+        "instanceFamily": "General purpose",
+        "vcpu": "2",
+        "physicalProcessor": "Intel Skylake E5 2686 v5 (2.5 GHz)",
+        "memory": "4 GiB",
+        "storage": "EBS Only",
+        "networkPerformance": "Low to Moderate",
+        "processorArchitecture": "64-bit",
+        "engineCode": "2",
+        "databaseEngine": "MySQL",
+        "licenseModel": "No license required",
+        "deploymentOption": "Multi-AZ",
+        "usagetype": "APS6-Multi-AZUsage:db.t3.medium",
+        "operation": "CreateDBInstance:0002",
+        "instanceTypeFamily": "T3",
+        "normalizationSizeFactor": "4",
+        "regionCode": "ap-southeast-4",
+        "servicename": "Amazon Relational Database Service"
+      }
+    },
+    "4B2HN9YDXBGUNJCS": {
+      "sku": "4B2HN9YDXBGUNJCS",
+      "productFamily": "ServerlessV2",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "EU (Paris)",
+        "locationType": "AWS Region",
+        "engineCode": "21",
+        "databaseEngine": "Aurora PostgreSQL",
+        "usagetype": "EUW3-Aurora:ServerlessV2Usage",
+        "operation": "CreateDBInstance:0021",
+        "regionCode": "eu-west-3",
+        "servicename": "Amazon Relational Database Service"
+      }
+    },
+    "R8Q2435NXQCAMNX9": {
+      "sku": "R8Q2435NXQCAMNX9",
+      "productFamily": "Database Instance",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "US East (Ohio)",
+        "locationType": "AWS Region",
+        "instanceType": "db.x1e.8xlarge",
+        "currentGeneration": "Yes",
+        "instanceFamily": "Memory optimized",
+        "vcpu": "32",
+        "physicalProcessor": "Intel Xeon E7-8880 v3",
+        "memory": "976 GiB",
+        "storage": "1 x 960 SSD",
+        "networkPerformance": "Up to 10 Gigabit",
+        "processorArchitecture": "64-bit",
+        "engineCode": "5",
+        "databaseEngine": "Oracle",
+        "databaseEdition": "Enterprise",
+        "licenseModel": "Bring your own license",
+        "deploymentOption": "Multi-AZ",
+        "usagetype": "USE2-Multi-AZUsage:db.x1e.8xl",
+        "operation": "CreateDBInstance:0005",
+        "instanceTypeFamily": "X1e",
+        "normalizationSizeFactor": "128",
+        "regionCode": "us-east-2",
+        "servicename": "Amazon Relational Database Service"
+      }
+    },
+    "U86UU5KVR2Z9BH2T": {
+      "sku": "U86UU5KVR2Z9BH2T",
+      "productFamily": "Database Instance",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "Africa (Cape Town)",
+        "locationType": "AWS Region",
+        "instanceType": "db.r5.4xlarge",
+        "currentGeneration": "Yes",
+        "instanceFamily": "Memory optimized",
+        "vcpu": "16",
+        "physicalProcessor": "Intel Xeon Platinum 8175",
+        "clockSpeed": "Up to 3.1 GHz",
+        "memory": "128 GiB",
+        "storage": "Aurora IO Optimization Mode",
+        "networkPerformance": "Up to 10 Gigabit",
+        "processorArchitecture": "64-bit",
+        "engineCode": "21",
+        "databaseEngine": "Aurora PostgreSQL",
+        "licenseModel": "No license required",
+        "deploymentOption": "Single-AZ",
+        "usagetype": "AFS1-InstanceUsageIOOptimized:db.r5.4xl",
+        "operation": "CreateDBInstance:0021",
+        "dedicatedEbsThroughput": "3500 Mbps",
+        "enhancedNetworkingSupported": "Yes",
+        "instanceTypeFamily": "R5",
+        "normalizationSizeFactor": "41.6",
+        "regionCode": "af-south-1",
+        "servicename": "Amazon Relational Database Service"
+      }
+    },
+    "8P695FA6EFN5NNY9": {
+      "sku": "8P695FA6EFN5NNY9",
+      "productFamily": "Database Instance",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "Asia Pacific (Mumbai)",
+        "locationType": "AWS Region",
+        "instanceType": "db.r6g.12xlarge",
+        "currentGeneration": "Yes",
+        "instanceFamily": "Memory optimized",
+        "vcpu": "48",
+        "physicalProcessor": "AWS Graviton2",
+        "memory": "384 GiB",
+        "storage": "EBS Only",
+        "networkPerformance": "20 Gigabit",
+        "processorArchitecture": "64-bit",
+        "engineCode": "2",
+        "databaseEngine": "MySQL",
+        "licenseModel": "No license required",
+        "deploymentOption": "Single-AZ",
+        "usagetype": "APS3-InstanceUsage:db.r6g.12xl",
+        "operation": "CreateDBInstance:0002",
+        "instanceTypeFamily": "R6G",
+        "normalizationSizeFactor": "96",
+        "regionCode": "ap-south-1",
+        "servicename": "Amazon Relational Database Service"
+      }
+    },
+    "6K8P2MJZWHR2K36S": {
+      "sku": "6K8P2MJZWHR2K36S",
+      "productFamily": "Performance Insights",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "Canada West (Calgary)",
+        "locationType": "AWS Region",
+        "engineCode": "11",
+        "databaseEngine": "SQL Server",
+        "usagetype": "CAN2:PI_LTR_FMR:Provisioned",
+        "operation": "CreateDBInstance:0011",
+        "instanceTypeFamily": "ProvisionedFMR",
+        "regionCode": "ca-west-1",
+        "servicename": "Amazon Relational Database Service"
+      }
+    },
+    "TZFTWFK83NQDQ59M": {
+      "sku": "TZFTWFK83NQDQ59M",
+      "productFamily": "Database Storage",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "Mexico (Central)",
+        "locationType": "AWS Region",
+        "storageMedia": "SSD",
+        "volumeType": "General Purpose",
+        "minVolumeSize": "5 GB",
+        "maxVolumeSize": "16 TB",
+        "engineCode": "15",
+        "databaseEngine": "SQL Server",
+        "databaseEdition": "Enterprise",
+        "deploymentOption": "Single-AZ",
+        "usagetype": "MXC1-RDS:GP2-Storage",
+        "operation": "CreateDBInstance:0015",
+        "regionCode": "mx-central-1",
+        "servicename": "Amazon Relational Database Service"
+      }
+    },
+    "4PM8P98M785XKUYK": {
+      "sku": "4PM8P98M785XKUYK",
+      "productFamily": "Provisioned IOPS",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "EU (Stockholm)",
+        "locationType": "AWS Region",
+        "volumeType": "General Purpose-GP3",
+        "engineCode": "29",
+        "databaseEngine": "Db2",
+        "databaseEdition": "Advanced",
+        "deploymentOption": "Single-AZ",
+        "group": "RDS-PIOPS",
+        "groupDescription": "RDS Provisioned GP3 IOPS",
+        "usagetype": "EUN1-RDS:GP3-PIOPS",
+        "operation": "CreateDBInstance:0029",
+        "regionCode": "eu-north-1",
+        "servicename": "Amazon Relational Database Service",
+        "volumeName": "gp3"
+      }
+    },
+    "DTRVMZGG9K7XE2WH": {
+      "sku": "DTRVMZGG9K7XE2WH",
+      "productFamily": "Provisioned IOPS",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "US West (Oregon)",
+        "locationType": "AWS Region",
+        "engineCode": "20",
+        "databaseEngine": "Oracle",
+        "databaseEdition": "Standard Two",
+        "deploymentOption": "Multi-AZ",
+        "group": "RDS-PIOPS",
+        "groupDescription": "RDS Provisioned IOPS",
+        "usagetype": "USW2-RDS:Multi-AZ-PIOPS",
+        "operation": "CreateDBInstance:0020",
+        "regionCode": "us-west-2",
+        "servicename": "Amazon Relational Database Service"
+      }
+    },
+    "E4CYBAMNGW4HDUYW": {
+      "sku": "E4CYBAMNGW4HDUYW",
+      "productFamily": "Database Instance",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "EU (Ireland)",
+        "locationType": "AWS Region",
+        "instanceType": "db.r6i.8xlarge",
+        "currentGeneration": "Yes",
+        "instanceFamily": "Memory optimized",
+        "vcpu": "32",
+        "physicalProcessor": "Intel Xeon Scalable Ice Lake",
+        "memory": "256 GiB",
+        "storage": "Aurora IO Optimization Mode",
+        "networkPerformance": "12.5 Gbps",
+        "processorArchitecture": "x86",
+        "engineCode": "16",
+        "databaseEngine": "Aurora MySQL",
+        "licenseModel": "No license required",
+        "deploymentOption": "Single-AZ",
+        "usagetype": "EU-InstanceUsageIOOptimized:db.r6i.8xl",
+        "operation": "CreateDBInstance:0016",
+        "instanceTypeFamily": "R6i",
+        "normalizationSizeFactor": "83.2",
+        "regionCode": "eu-west-1",
+        "servicename": "Amazon Relational Database Service"
+      }
+    },
+    "QT7DQ5DG8P2C8H8V": {
+      "sku": "QT7DQ5DG8P2C8H8V",
+      "productFamily": "Database Instance",
+      "attributes": {
+        "servicecode": "AmazonRDS",
+        "location": "Europe (Zurich)",
+        "locationType": "AWS Region",
+        "instanceType": "db.t3.small",
+        "currentGeneration": "Yes",
+        "instanceFamily": "General purpose",
+        "vcpu": "2",
+        "physicalProcessor": "Intel Skylake E5 2686 v5 (2.5 GHz)",
+        "memory": "2 GiB",
+        "storage": "EBS Only",
+        "networkPerformance": "Low to Moderate",
+        "processorArchitecture": "64-bit",
+        "engineCode": "28",
+        "databaseEngine": "Db2",
+        "databaseEdition": "Standard",
+        "licenseModel": "Bring your own license",
+        "deploymentOption": "Single-AZ",
+        "usagetype": "EUC2-InstanceUsage:db.t3.small",
+        "operation": "CreateDBInstance:0028",
+        "instanceTypeFamily": "T3",
+        "normalizationSizeFactor": "1",
+        "regionCode": "eu-central-2",
+        "servicename": "Amazon Relational Database Service"
+      }
+    }
+  },
+  "terms": {
+    "OnDemand": {
+      "JYX35YJ8Z5DXXS98": {
+        "JYX35YJ8Z5DXXS98.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "JYX35YJ8Z5DXXS98",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "JYX35YJ8Z5DXXS98.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "JYX35YJ8Z5DXXS98.JRTCKXETXF.6YS6EN2CT7",
+              "description": "$ 15.89 per RDS db.r5d.24xlarge Single-AZ instance hour (or partial hour) running MySQL",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "15.8900000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "4B2HN9YDXBGUNJCS": {
+        "4B2HN9YDXBGUNJCS.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "4B2HN9YDXBGUNJCS",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "4B2HN9YDXBGUNJCS.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "4B2HN9YDXBGUNJCS.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 0.14 per Aurora Capacity Unit hour running Aurora PostgreSQL Serverless v2",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "ACU-Hr",
+              "pricePerUnit": {
+                "USD": "0.1400000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "H4WDB4TZHXB8URCU": {
+        "H4WDB4TZHXB8URCU.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "H4WDB4TZHXB8URCU",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "H4WDB4TZHXB8URCU.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "H4WDB4TZHXB8URCU.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 0.224 db.t3.medium Multi-AZ instance hour (or partial hour) running MySQL",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.2240000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "R8Q2435NXQCAMNX9": {
+        "R8Q2435NXQCAMNX9.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "R8Q2435NXQCAMNX9",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "R8Q2435NXQCAMNX9.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "R8Q2435NXQCAMNX9.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 22.418 per RDS db.x1e.8xlarge Multi-AZ instance hour (or partial hour) running Oracle EE (BYOL)",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "22.4179000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "U86UU5KVR2Z9BH2T": {
+        "U86UU5KVR2Z9BH2T.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "U86UU5KVR2Z9BH2T",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "U86UU5KVR2Z9BH2T.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "U86UU5KVR2Z9BH2T.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 3.962 per db.r5.4xlarge IO-optimized Single-AZ instance hour (or partial hour) running Aurora PostgreSQL",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "3.9620000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "8P695FA6EFN5NNY9": {
+        "8P695FA6EFN5NNY9.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "8P695FA6EFN5NNY9",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "8P695FA6EFN5NNY9.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "8P695FA6EFN5NNY9.JRTCKXETXF.6YS6EN2CT7",
+              "description": "$ 5.8 per RDS db.r6g.12xlarge Single-AZ instance hour (or partial hour) running MySQL",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "5.8000000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "6K8P2MJZWHR2K36S": {
+        "6K8P2MJZWHR2K36S.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "6K8P2MJZWHR2K36S",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "6K8P2MJZWHR2K36S.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "6K8P2MJZWHR2K36S.JRTCKXETXF.6YS6EN2CT7",
+              "description": " $1.6098 per vCPU-month for one month retention of RDS Performance Insights",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "vCPU-Months",
+              "pricePerUnit": {
+                "USD": "1.6098000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "TZFTWFK83NQDQ59M": {
+        "TZFTWFK83NQDQ59M.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "TZFTWFK83NQDQ59M",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "TZFTWFK83NQDQ59M.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "TZFTWFK83NQDQ59M.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 0.121 per GB-month of provisioned gp2 storage for Single-AZ deployments running SQL Server EE (LI)",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "GB-Mo",
+              "pricePerUnit": {
+                "USD": "0.1210000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "4PM8P98M785XKUYK": {
+        "4PM8P98M785XKUYK.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "4PM8P98M785XKUYK",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "4PM8P98M785XKUYK.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "4PM8P98M785XKUYK.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 0.021 per IOPS-month of provisioned GP3 IOPS running Db2",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "IOPS-Mo",
+              "pricePerUnit": {
+                "USD": "0.0210000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "E4CYBAMNGW4HDUYW": {
+        "E4CYBAMNGW4HDUYW.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "E4CYBAMNGW4HDUYW",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "E4CYBAMNGW4HDUYW.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "E4CYBAMNGW4HDUYW.JRTCKXETXF.6YS6EN2CT7",
+              "description": "$6.656 per RDS db.r6i.8xlarge IO-optimized Single-AZ instance hour (or partial hour) running Aurora MySQL",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "6.6560000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "DTRVMZGG9K7XE2WH": {
+        "DTRVMZGG9K7XE2WH.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "DTRVMZGG9K7XE2WH",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "DTRVMZGG9K7XE2WH.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "DTRVMZGG9K7XE2WH.JRTCKXETXF.6YS6EN2CT7",
+              "description": "$0.2 per IOPS-month of provisioned io1 IOPS for Multi-AZ deployments running Oracle",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "IOPS-Mo",
+              "pricePerUnit": {
+                "USD": "0.2000000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "QT7DQ5DG8P2C8H8V": {
+        "QT7DQ5DG8P2C8H8V.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "QT7DQ5DG8P2C8H8V",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "QT7DQ5DG8P2C8H8V.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "QT7DQ5DG8P2C8H8V.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 0.046 per RDS db.t3.small Single-AZ instance hour (or partial hour) running Db2 SE (BYOL)",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0460000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "23MXHBBFVKAQ3SHH": {
+        "23MXHBBFVKAQ3SHH.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "23MXHBBFVKAQ3SHH",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "23MXHBBFVKAQ3SHH.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "23MXHBBFVKAQ3SHH.JRTCKXETXF.6YS6EN2CT7",
+              "description": "$0.02 per IOPS-month of provisioned GP3 IOPS running Oracle",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "IOPS-Mo",
+              "pricePerUnit": {
+                "USD": "0.0200000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "WAPXDDPJ95E4TWYD": {
+        "WAPXDDPJ95E4TWYD.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "WAPXDDPJ95E4TWYD",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "WAPXDDPJ95E4TWYD.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "WAPXDDPJ95E4TWYD.JRTCKXETXF.6YS6EN2CT7",
+              "description": "$ 7.174 per RDS db.m6id.16xlarge Single-AZ instance hour (or partial hour) running MySQL",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "7.1740000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "KB5TQUEKGMEF6DUB": {
+        "KB5TQUEKGMEF6DUB.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "KB5TQUEKGMEF6DUB",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "KB5TQUEKGMEF6DUB.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "KB5TQUEKGMEF6DUB.JRTCKXETXF.6YS6EN2CT7",
+              "description": "$11.904 per db.r5.16xlarge Single-AZ instance hour (or partial hour) running SQL Server EE (customer-provided media)",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "11.9040000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "D94A62URQVYBGFCF": {
+        "D94A62URQVYBGFCF.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "D94A62URQVYBGFCF",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "D94A62URQVYBGFCF.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "D94A62URQVYBGFCF.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 0.144 per vCPU-Hour of T3 CPU Credits",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "vCPU-Hours",
+              "pricePerUnit": {
+                "USD": "0.1440000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "7MXKS5R72QNMWWSP": {
+        "7MXKS5R72QNMWWSP.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "7MXKS5R72QNMWWSP",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "7MXKS5R72QNMWWSP.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "7MXKS5R72QNMWWSP.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 13.002 per db.x2iedn.4xl Single-AZ instance hour (or partial hour) running SQL Server STD (LI)",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "13.0020000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "YA3FJPU37527SGJD": {
+        "YA3FJPU37527SGJD.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "YA3FJPU37527SGJD",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "YA3FJPU37527SGJD.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "YA3FJPU37527SGJD.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 7.488 per RDS db.m6i.16xlarge Single-AZ instance hour (or partial hour) running Db2 AE (BYOL)",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "7.4880000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "3WPZJS9UH93ENQ3Z": {
+        "3WPZJS9UH93ENQ3Z.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "3WPZJS9UH93ENQ3Z",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "3WPZJS9UH93ENQ3Z.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "3WPZJS9UH93ENQ3Z.JRTCKXETXF.6YS6EN2CT7",
+              "description": "$0.138 per GB-month of provisioned GP3 storage running Oracle",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "GB-Mo",
+              "pricePerUnit": {
+                "USD": "0.1380000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "PW56ZVY378NGU2CT": {
+        "PW56ZVY378NGU2CT.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "PW56ZVY378NGU2CT",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "PW56ZVY378NGU2CT.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "PW56ZVY378NGU2CT.JRTCKXETXF.6YS6EN2CT7",
+              "description": "$ 3.942 per RDS db.m6id.8xlarge Single-AZ instance hour (or partial hour) running MariaDB",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "3.9420000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "T92P772DS9524DFR": {
+        "T92P772DS9524DFR.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "T92P772DS9524DFR",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "T92P772DS9524DFR.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "T92P772DS9524DFR.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 0.630 per db.m5d.xlarge Single-AZ instance hour (or partial hour) running SQL Server Web (LI)",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.6300000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "BQ4JWVDEVSHGJP77": {
+        "BQ4JWVDEVSHGJP77.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "BQ4JWVDEVSHGJP77",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "BQ4JWVDEVSHGJP77.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "BQ4JWVDEVSHGJP77.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 12.336 per RDS db.r7i.24xlarge Single-AZ instance hour (or partial hour) running PostgreSQL",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "12.3360000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "WGN73QTH8A7ZYD27": {
+        "WGN73QTH8A7ZYD27.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "WGN73QTH8A7ZYD27",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "WGN73QTH8A7ZYD27.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "WGN73QTH8A7ZYD27.JRTCKXETXF.6YS6EN2CT7",
+              "description": "$ 0.94 per RDS db.m6i.2xlarge Single-AZ instance hour (or partial hour) running MariaDB",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.9400000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      },
+      "AHYPHQRYTQG4A9EU": {
+        "AHYPHQRYTQG4A9EU.JRTCKXETXF": {
+          "offerTermCode": "JRTCKXETXF",
+          "sku": "AHYPHQRYTQG4A9EU",
+          "effectiveDate": "2025-02-01T00:00:00Z",
+          "priceDimensions": {
+            "AHYPHQRYTQG4A9EU.JRTCKXETXF.6YS6EN2CT7": {
+              "rateCode": "AHYPHQRYTQG4A9EU.JRTCKXETXF.6YS6EN2CT7",
+              "description": "USD 22.9504 per db.m5.8xlarge Multi-AZ instance hour (or partial hour) running SQL Server SE (LI)",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "22.9504000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {}
+        }
+      }
+    }
+  },
+  "attributesList": {}
+}
