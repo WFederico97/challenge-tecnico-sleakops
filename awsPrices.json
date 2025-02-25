@@ -805,7 +805,1080 @@
           "termAttributes": {}
         }
       }
-    }
-  },
-  "attributesList": {}
+    },
+    "Reserved": {
+      "9QH3PUGXCYKNCYPB": {
+        "9QH3PUGXCYKNCYPB.HU7G6KETJZ": {
+          "offerTermCode": "HU7G6KETJZ",
+          "sku": "9QH3PUGXCYKNCYPB",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "9QH3PUGXCYKNCYPB.HU7G6KETJZ.6YS6EN2CT7": {
+              "rateCode": "9QH3PUGXCYKNCYPB.HU7G6KETJZ.6YS6EN2CT7",
+              "description": "Oracle SE2 (License Included), db.t3.xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.1800000000"
+              },
+              "appliesTo": []
+            },
+            "9QH3PUGXCYKNCYPB.HU7G6KETJZ.2TG2D8R56U": {
+              "rateCode": "9QH3PUGXCYKNCYPB.HU7G6KETJZ.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "1577"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "9QH3PUGXCYKNCYPB.4NA7Y494T4": {
+          "offerTermCode": "4NA7Y494T4",
+          "sku": "9QH3PUGXCYKNCYPB",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "9QH3PUGXCYKNCYPB.4NA7Y494T4.6YS6EN2CT7": {
+              "rateCode": "9QH3PUGXCYKNCYPB.4NA7Y494T4.6YS6EN2CT7",
+              "description": "Oracle SE2 (License Included), db.t3.xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.3780000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "No Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "9QH3PUGXCYKNCYPB.NQ3QZPMQV9": {
+          "offerTermCode": "NQ3QZPMQV9",
+          "sku": "9QH3PUGXCYKNCYPB",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "9QH3PUGXCYKNCYPB.NQ3QZPMQV9.6YS6EN2CT7": {
+              "rateCode": "9QH3PUGXCYKNCYPB.NQ3QZPMQV9.6YS6EN2CT7",
+              "description": "Oracle SE2 (License Included), db.t3.xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "9QH3PUGXCYKNCYPB.NQ3QZPMQV9.2TG2D8R56U": {
+              "rateCode": "9QH3PUGXCYKNCYPB.NQ3QZPMQV9.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "6181"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "9QH3PUGXCYKNCYPB.6QCMYABX3D": {
+          "offerTermCode": "6QCMYABX3D",
+          "sku": "9QH3PUGXCYKNCYPB",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "9QH3PUGXCYKNCYPB.6QCMYABX3D.6YS6EN2CT7": {
+              "rateCode": "9QH3PUGXCYKNCYPB.6QCMYABX3D.6YS6EN2CT7",
+              "description": "Oracle SE2 (License Included), db.t3.xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "9QH3PUGXCYKNCYPB.6QCMYABX3D.2TG2D8R56U": {
+              "rateCode": "9QH3PUGXCYKNCYPB.6QCMYABX3D.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "3091"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "9QH3PUGXCYKNCYPB.38NPMPTW36": {
+          "offerTermCode": "38NPMPTW36",
+          "sku": "9QH3PUGXCYKNCYPB",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "9QH3PUGXCYKNCYPB.38NPMPTW36.6YS6EN2CT7": {
+              "rateCode": "9QH3PUGXCYKNCYPB.38NPMPTW36.6YS6EN2CT7",
+              "description": "Oracle SE2 (License Included), db.t3.xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.1200000000"
+              },
+              "appliesTo": []
+            },
+            "9QH3PUGXCYKNCYPB.38NPMPTW36.2TG2D8R56U": {
+              "rateCode": "9QH3PUGXCYKNCYPB.38NPMPTW36.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "3154"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        }
+      },
+      "WNGX5QRC3VF6VR5J": {
+        "WNGX5QRC3VF6VR5J.4NA7Y494T4": {
+          "offerTermCode": "4NA7Y494T4",
+          "sku": "WNGX5QRC3VF6VR5J",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "WNGX5QRC3VF6VR5J.4NA7Y494T4.6YS6EN2CT7": {
+              "rateCode": "WNGX5QRC3VF6VR5J.4NA7Y494T4.6YS6EN2CT7",
+              "description": "PostgreSQL, db.m6idn.2xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "1.8172000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "No Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "WNGX5QRC3VF6VR5J.HU7G6KETJZ": {
+          "offerTermCode": "HU7G6KETJZ",
+          "sku": "WNGX5QRC3VF6VR5J",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "WNGX5QRC3VF6VR5J.HU7G6KETJZ.6YS6EN2CT7": {
+              "rateCode": "WNGX5QRC3VF6VR5J.HU7G6KETJZ.6YS6EN2CT7",
+              "description": "PostgreSQL, db.m6idn.2xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.8850000000"
+              },
+              "appliesTo": []
+            },
+            "WNGX5QRC3VF6VR5J.HU7G6KETJZ.2TG2D8R56U": {
+              "rateCode": "WNGX5QRC3VF6VR5J.HU7G6KETJZ.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "7753"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "WNGX5QRC3VF6VR5J.NQ3QZPMQV9": {
+          "offerTermCode": "NQ3QZPMQV9",
+          "sku": "WNGX5QRC3VF6VR5J",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "WNGX5QRC3VF6VR5J.NQ3QZPMQV9.6YS6EN2CT7": {
+              "rateCode": "WNGX5QRC3VF6VR5J.NQ3QZPMQV9.6YS6EN2CT7",
+              "description": "PostgreSQL, db.m6idn.2xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "WNGX5QRC3VF6VR5J.NQ3QZPMQV9.2TG2D8R56U": {
+              "rateCode": "WNGX5QRC3VF6VR5J.NQ3QZPMQV9.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "32871"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "WNGX5QRC3VF6VR5J.6QCMYABX3D": {
+          "offerTermCode": "6QCMYABX3D",
+          "sku": "WNGX5QRC3VF6VR5J",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "WNGX5QRC3VF6VR5J.6QCMYABX3D.6YS6EN2CT7": {
+              "rateCode": "WNGX5QRC3VF6VR5J.6QCMYABX3D.6YS6EN2CT7",
+              "description": "PostgreSQL, db.m6idn.2xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "WNGX5QRC3VF6VR5J.6QCMYABX3D.2TG2D8R56U": {
+              "rateCode": "WNGX5QRC3VF6VR5J.6QCMYABX3D.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "15092"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "WNGX5QRC3VF6VR5J.38NPMPTW36": {
+          "offerTermCode": "38NPMPTW36",
+          "sku": "WNGX5QRC3VF6VR5J",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "WNGX5QRC3VF6VR5J.38NPMPTW36.6YS6EN2CT7": {
+              "rateCode": "WNGX5QRC3VF6VR5J.38NPMPTW36.6YS6EN2CT7",
+              "description": "PostgreSQL, db.m6idn.2xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.6490000000"
+              },
+              "appliesTo": []
+            },
+            "WNGX5QRC3VF6VR5J.38NPMPTW36.2TG2D8R56U": {
+              "rateCode": "WNGX5QRC3VF6VR5J.38NPMPTW36.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "17056"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        }
+      },
+      "4U9P9G87PY8QVQH5": {
+        "4U9P9G87PY8QVQH5.6QCMYABX3D": {
+          "offerTermCode": "6QCMYABX3D",
+          "sku": "4U9P9G87PY8QVQH5",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "4U9P9G87PY8QVQH5.6QCMYABX3D.6YS6EN2CT7": {
+              "rateCode": "4U9P9G87PY8QVQH5.6QCMYABX3D.6YS6EN2CT7",
+              "description": "Aurora PostgreSQL, db.r6g.large reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "4U9P9G87PY8QVQH5.6QCMYABX3D.2TG2D8R56U": {
+              "rateCode": "4U9P9G87PY8QVQH5.6QCMYABX3D.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "1240"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "4U9P9G87PY8QVQH5.NQ3QZPMQV9": {
+          "offerTermCode": "NQ3QZPMQV9",
+          "sku": "4U9P9G87PY8QVQH5",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "4U9P9G87PY8QVQH5.NQ3QZPMQV9.6YS6EN2CT7": {
+              "rateCode": "4U9P9G87PY8QVQH5.NQ3QZPMQV9.6YS6EN2CT7",
+              "description": "Aurora PostgreSQL, db.r6g.large reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "4U9P9G87PY8QVQH5.NQ3QZPMQV9.2TG2D8R56U": {
+              "rateCode": "4U9P9G87PY8QVQH5.NQ3QZPMQV9.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "2378"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "4U9P9G87PY8QVQH5.38NPMPTW36": {
+          "offerTermCode": "38NPMPTW36",
+          "sku": "4U9P9G87PY8QVQH5",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "4U9P9G87PY8QVQH5.38NPMPTW36.6YS6EN2CT7": {
+              "rateCode": "4U9P9G87PY8QVQH5.38NPMPTW36.6YS6EN2CT7",
+              "description": "Aurora PostgreSQL, db.r6g.large reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0481000000"
+              },
+              "appliesTo": []
+            },
+            "4U9P9G87PY8QVQH5.38NPMPTW36.2TG2D8R56U": {
+              "rateCode": "4U9P9G87PY8QVQH5.38NPMPTW36.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "1265"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "4U9P9G87PY8QVQH5.HU7G6KETJZ": {
+          "offerTermCode": "HU7G6KETJZ",
+          "sku": "4U9P9G87PY8QVQH5",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "4U9P9G87PY8QVQH5.HU7G6KETJZ.6YS6EN2CT7": {
+              "rateCode": "4U9P9G87PY8QVQH5.HU7G6KETJZ.6YS6EN2CT7",
+              "description": "Aurora PostgreSQL, db.r6g.large reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0722000000"
+              },
+              "appliesTo": []
+            },
+            "4U9P9G87PY8QVQH5.HU7G6KETJZ.2TG2D8R56U": {
+              "rateCode": "4U9P9G87PY8QVQH5.HU7G6KETJZ.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "632"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "4U9P9G87PY8QVQH5.4NA7Y494T4": {
+          "offerTermCode": "4NA7Y494T4",
+          "sku": "4U9P9G87PY8QVQH5",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "4U9P9G87PY8QVQH5.4NA7Y494T4.6YS6EN2CT7": {
+              "rateCode": "4U9P9G87PY8QVQH5.4NA7Y494T4.6YS6EN2CT7",
+              "description": "Aurora PostgreSQL, db.r6g.large reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.1700000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "No Upfront",
+            "OfferingClass": "standard"
+          }
+        }
+      },
+      "KDWMVZSTP4QSAE5G": {
+        "KDWMVZSTP4QSAE5G.NQ3QZPMQV9": {
+          "offerTermCode": "NQ3QZPMQV9",
+          "sku": "KDWMVZSTP4QSAE5G",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "KDWMVZSTP4QSAE5G.NQ3QZPMQV9.6YS6EN2CT7": {
+              "rateCode": "KDWMVZSTP4QSAE5G.NQ3QZPMQV9.6YS6EN2CT7",
+              "description": "MariaDB, db.m6i.32xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "KDWMVZSTP4QSAE5G.NQ3QZPMQV9.2TG2D8R56U": {
+              "rateCode": "KDWMVZSTP4QSAE5G.NQ3QZPMQV9.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "231168"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "KDWMVZSTP4QSAE5G.38NPMPTW36": {
+          "offerTermCode": "38NPMPTW36",
+          "sku": "KDWMVZSTP4QSAE5G",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "KDWMVZSTP4QSAE5G.38NPMPTW36.6YS6EN2CT7": {
+              "rateCode": "KDWMVZSTP4QSAE5G.38NPMPTW36.6YS6EN2CT7",
+              "description": "MariaDB, db.m6i.32xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "4.4893000000"
+              },
+              "appliesTo": []
+            },
+            "KDWMVZSTP4QSAE5G.38NPMPTW36.2TG2D8R56U": {
+              "rateCode": "KDWMVZSTP4QSAE5G.38NPMPTW36.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "117979"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "KDWMVZSTP4QSAE5G.6QCMYABX3D": {
+          "offerTermCode": "6QCMYABX3D",
+          "sku": "KDWMVZSTP4QSAE5G",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "KDWMVZSTP4QSAE5G.6QCMYABX3D.6YS6EN2CT7": {
+              "rateCode": "KDWMVZSTP4QSAE5G.6QCMYABX3D.6YS6EN2CT7",
+              "description": "MariaDB, db.m6i.32xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "KDWMVZSTP4QSAE5G.6QCMYABX3D.2TG2D8R56U": {
+              "rateCode": "KDWMVZSTP4QSAE5G.6QCMYABX3D.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "114560"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "KDWMVZSTP4QSAE5G.4NA7Y494T4": {
+          "offerTermCode": "4NA7Y494T4",
+          "sku": "KDWMVZSTP4QSAE5G",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "KDWMVZSTP4QSAE5G.4NA7Y494T4.6YS6EN2CT7": {
+              "rateCode": "KDWMVZSTP4QSAE5G.4NA7Y494T4.6YS6EN2CT7",
+              "description": "MariaDB, db.m6i.32xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "14.0160000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "No Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "KDWMVZSTP4QSAE5G.HU7G6KETJZ": {
+          "offerTermCode": "HU7G6KETJZ",
+          "sku": "KDWMVZSTP4QSAE5G",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "KDWMVZSTP4QSAE5G.HU7G6KETJZ.6YS6EN2CT7": {
+              "rateCode": "KDWMVZSTP4QSAE5G.HU7G6KETJZ.6YS6EN2CT7",
+              "description": "MariaDB, db.m6i.32xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "6.6796000000"
+              },
+              "appliesTo": []
+            },
+            "KDWMVZSTP4QSAE5G.HU7G6KETJZ.2TG2D8R56U": {
+              "rateCode": "KDWMVZSTP4QSAE5G.HU7G6KETJZ.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "58513"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        }
+      },
+      "T5S23XD5FK72EDA8": {
+        "T5S23XD5FK72EDA8.HU7G6KETJZ": {
+          "offerTermCode": "HU7G6KETJZ",
+          "sku": "T5S23XD5FK72EDA8",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "T5S23XD5FK72EDA8.HU7G6KETJZ.6YS6EN2CT7": {
+              "rateCode": "T5S23XD5FK72EDA8.HU7G6KETJZ.6YS6EN2CT7",
+              "description": "SQL Server SE (LI), db.z1d.2xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "3.0769000000"
+              },
+              "appliesTo": []
+            },
+            "T5S23XD5FK72EDA8.HU7G6KETJZ.2TG2D8R56U": {
+              "rateCode": "T5S23XD5FK72EDA8.HU7G6KETJZ.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "26954"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "T5S23XD5FK72EDA8.6QCMYABX3D": {
+          "offerTermCode": "6QCMYABX3D",
+          "sku": "T5S23XD5FK72EDA8",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "T5S23XD5FK72EDA8.6QCMYABX3D.6YS6EN2CT7": {
+              "rateCode": "T5S23XD5FK72EDA8.6QCMYABX3D.6YS6EN2CT7",
+              "description": "SQL Server SE (LI), db.z1d.2xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "T5S23XD5FK72EDA8.6QCMYABX3D.2TG2D8R56U": {
+              "rateCode": "T5S23XD5FK72EDA8.6QCMYABX3D.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "52829"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "T5S23XD5FK72EDA8.4NA7Y494T4": {
+          "offerTermCode": "4NA7Y494T4",
+          "sku": "T5S23XD5FK72EDA8",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "T5S23XD5FK72EDA8.4NA7Y494T4.6YS6EN2CT7": {
+              "rateCode": "T5S23XD5FK72EDA8.4NA7Y494T4.6YS6EN2CT7",
+              "description": "SQL Server SE (LI), db.z1d.2xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "6.4615000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "No Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "T5S23XD5FK72EDA8.NQ3QZPMQV9": {
+          "offerTermCode": "NQ3QZPMQV9",
+          "sku": "T5S23XD5FK72EDA8",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "T5S23XD5FK72EDA8.NQ3QZPMQV9.6YS6EN2CT7": {
+              "rateCode": "T5S23XD5FK72EDA8.NQ3QZPMQV9.6YS6EN2CT7",
+              "description": "SQL Server SE (LI), db.z1d.2xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "T5S23XD5FK72EDA8.NQ3QZPMQV9.2TG2D8R56U": {
+              "rateCode": "T5S23XD5FK72EDA8.NQ3QZPMQV9.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "140879"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "T5S23XD5FK72EDA8.38NPMPTW36": {
+          "offerTermCode": "38NPMPTW36",
+          "sku": "T5S23XD5FK72EDA8",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "T5S23XD5FK72EDA8.38NPMPTW36.6YS6EN2CT7": {
+              "rateCode": "T5S23XD5FK72EDA8.38NPMPTW36.6YS6EN2CT7",
+              "description": "SQL Server SE (LI), db.z1d.2xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "2.7350000000"
+              },
+              "appliesTo": []
+            },
+            "T5S23XD5FK72EDA8.38NPMPTW36.2TG2D8R56U": {
+              "rateCode": "T5S23XD5FK72EDA8.38NPMPTW36.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "71877"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        }
+      },
+      "SDKQQX3BWEDQZ93N": {
+        "SDKQQX3BWEDQZ93N.6QCMYABX3D": {
+          "offerTermCode": "6QCMYABX3D",
+          "sku": "SDKQQX3BWEDQZ93N",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "SDKQQX3BWEDQZ93N.6QCMYABX3D.6YS6EN2CT7": {
+              "rateCode": "SDKQQX3BWEDQZ93N.6QCMYABX3D.6YS6EN2CT7",
+              "description": "PostgreSQL, db.r6id.32xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "SDKQQX3BWEDQZ93N.6QCMYABX3D.2TG2D8R56U": {
+              "rateCode": "SDKQQX3BWEDQZ93N.6QCMYABX3D.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "244097"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "SDKQQX3BWEDQZ93N.HU7G6KETJZ": {
+          "offerTermCode": "HU7G6KETJZ",
+          "sku": "SDKQQX3BWEDQZ93N",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "SDKQQX3BWEDQZ93N.HU7G6KETJZ.6YS6EN2CT7": {
+              "rateCode": "SDKQQX3BWEDQZ93N.HU7G6KETJZ.6YS6EN2CT7",
+              "description": "PostgreSQL, db.r6id.32xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "14.3142000000"
+              },
+              "appliesTo": []
+            },
+            "SDKQQX3BWEDQZ93N.HU7G6KETJZ.2TG2D8R56U": {
+              "rateCode": "SDKQQX3BWEDQZ93N.HU7G6KETJZ.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "125392"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "SDKQQX3BWEDQZ93N.38NPMPTW36": {
+          "offerTermCode": "38NPMPTW36",
+          "sku": "SDKQQX3BWEDQZ93N",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "SDKQQX3BWEDQZ93N.38NPMPTW36.6YS6EN2CT7": {
+              "rateCode": "SDKQQX3BWEDQZ93N.38NPMPTW36.6YS6EN2CT7",
+              "description": "PostgreSQL, db.r6id.32xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "10.4971000000"
+              },
+              "appliesTo": []
+            },
+            "SDKQQX3BWEDQZ93N.38NPMPTW36.2TG2D8R56U": {
+              "rateCode": "SDKQQX3BWEDQZ93N.38NPMPTW36.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "275863"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "SDKQQX3BWEDQZ93N.4NA7Y494T4": {
+          "offerTermCode": "4NA7Y494T4",
+          "sku": "SDKQQX3BWEDQZ93N",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "SDKQQX3BWEDQZ93N.4NA7Y494T4.6YS6EN2CT7": {
+              "rateCode": "SDKQQX3BWEDQZ93N.4NA7Y494T4.6YS6EN2CT7",
+              "description": "PostgreSQL, db.r6id.32xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "29.3918000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "No Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "SDKQQX3BWEDQZ93N.NQ3QZPMQV9": {
+          "offerTermCode": "NQ3QZPMQV9",
+          "sku": "SDKQQX3BWEDQZ93N",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "SDKQQX3BWEDQZ93N.NQ3QZPMQV9.6YS6EN2CT7": {
+              "rateCode": "SDKQQX3BWEDQZ93N.NQ3QZPMQV9.6YS6EN2CT7",
+              "description": "PostgreSQL, db.r6id.32xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "SDKQQX3BWEDQZ93N.NQ3QZPMQV9.2TG2D8R56U": {
+              "rateCode": "SDKQQX3BWEDQZ93N.NQ3QZPMQV9.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "531663"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        }
+      },
+      "MEW98WEE5SWJJETM": {
+        "MEW98WEE5SWJJETM.HU7G6KETJZ": {
+          "offerTermCode": "HU7G6KETJZ",
+          "sku": "MEW98WEE5SWJJETM",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "MEW98WEE5SWJJETM.HU7G6KETJZ.6YS6EN2CT7": {
+              "rateCode": "MEW98WEE5SWJJETM.HU7G6KETJZ.6YS6EN2CT7",
+              "description": "MariaDB, db.r6id.4xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.8946000000"
+              },
+              "appliesTo": []
+            },
+            "MEW98WEE5SWJJETM.HU7G6KETJZ.2TG2D8R56U": {
+              "rateCode": "MEW98WEE5SWJJETM.HU7G6KETJZ.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "7837"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "MEW98WEE5SWJJETM.NQ3QZPMQV9": {
+          "offerTermCode": "NQ3QZPMQV9",
+          "sku": "MEW98WEE5SWJJETM",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "MEW98WEE5SWJJETM.NQ3QZPMQV9.6YS6EN2CT7": {
+              "rateCode": "MEW98WEE5SWJJETM.NQ3QZPMQV9.6YS6EN2CT7",
+              "description": "MariaDB, db.r6id.4xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "MEW98WEE5SWJJETM.NQ3QZPMQV9.2TG2D8R56U": {
+              "rateCode": "MEW98WEE5SWJJETM.NQ3QZPMQV9.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "33229"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "MEW98WEE5SWJJETM.6QCMYABX3D": {
+          "offerTermCode": "6QCMYABX3D",
+          "sku": "MEW98WEE5SWJJETM",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "MEW98WEE5SWJJETM.6QCMYABX3D.6YS6EN2CT7": {
+              "rateCode": "MEW98WEE5SWJJETM.6QCMYABX3D.6YS6EN2CT7",
+              "description": "MariaDB, db.r6id.4xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.0000000000"
+              },
+              "appliesTo": []
+            },
+            "MEW98WEE5SWJJETM.6QCMYABX3D.2TG2D8R56U": {
+              "rateCode": "MEW98WEE5SWJJETM.6QCMYABX3D.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "15256"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "All Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "MEW98WEE5SWJJETM.38NPMPTW36": {
+          "offerTermCode": "38NPMPTW36",
+          "sku": "MEW98WEE5SWJJETM",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "MEW98WEE5SWJJETM.38NPMPTW36.6YS6EN2CT7": {
+              "rateCode": "MEW98WEE5SWJJETM.38NPMPTW36.6YS6EN2CT7",
+              "description": "MariaDB, db.r6id.4xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "0.6561000000"
+              },
+              "appliesTo": []
+            },
+            "MEW98WEE5SWJJETM.38NPMPTW36.2TG2D8R56U": {
+              "rateCode": "MEW98WEE5SWJJETM.38NPMPTW36.2TG2D8R56U",
+              "description": "Upfront Fee",
+              "unit": "Quantity",
+              "pricePerUnit": {
+                "USD": "17241"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "3yr",
+            "PurchaseOption": "Partial Upfront",
+            "OfferingClass": "standard"
+          }
+        },
+        "MEW98WEE5SWJJETM.4NA7Y494T4": {
+          "offerTermCode": "4NA7Y494T4",
+          "sku": "MEW98WEE5SWJJETM",
+          "effectiveDate": "2025-02-07T23:28:54Z",
+          "priceDimensions": {
+            "MEW98WEE5SWJJETM.4NA7Y494T4.6YS6EN2CT7": {
+              "rateCode": "MEW98WEE5SWJJETM.4NA7Y494T4.6YS6EN2CT7",
+              "description": "MariaDB, db.r6id.4xl reserved instance applied",
+              "beginRange": "0",
+              "endRange": "Inf",
+              "unit": "Hrs",
+              "pricePerUnit": {
+                "USD": "1.8370000000"
+              },
+              "appliesTo": []
+            }
+          },
+          "termAttributes": {
+            "LeaseContractLength": "1yr",
+            "PurchaseOption": "No Upfront",
+            "OfferingClass": "standard"
+          }
+        }
+      }
+    },
+    "attributesList": {}
+  }
 }
