@@ -40,7 +40,7 @@ Se utilizó el motor de PostgreSQL. A su vez, en el archivo `database.py` se eje
 1. **Clonar el repositorio:**
 
     ```bash
-    git clone https://github.com/WFederico97/ED-MACHINA.git
+    git clone https://github.com/WFederico97/challenge-tecnico-sleakops.git
     cd challenge-tecnico-sleakops
     ```
 
@@ -67,7 +67,7 @@ Se utilizó el motor de PostgreSQL. A su vez, en el archivo `database.py` se eje
 1. **Clonar el repositorio:**
 
     ```bash
-    git clone https://github.com/WFederico97/ED-MACHINA.git
+    git clone https://github.com/WFederico97/challenge-tecnico-sleakops.git
     cd challenge-tecnico-sleakops
     ```
 
